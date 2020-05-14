@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name couplerboard)(type KiCad)(uri ${KIPRJMOD}/couplerboard.pretty)(options "")(descr ""))
+)
