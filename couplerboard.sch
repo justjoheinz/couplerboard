@@ -495,4 +495,26 @@ Connection ~ 4950 4150
 Wire Wire Line
 	4950 4150 4950 3700
 NoConn ~ 4100 4350
+$Comp
+L Mechanical:MountingHole H3
+U 1 1 5EBFE181
+P 2700 3550
+F 0 "H3" H 2800 3596 50  0000 L CNN
+F 1 "MountingHole" H 2800 3505 50  0000 L CNN
+F 2 "MountingHole:MountingHole_3.2mm_M3_DIN965" H 2700 3550 50  0001 C CNN
+F 3 "~" H 2700 3550 50  0001 C CNN
+	1    2700 3550
+	1    0    0    -1  
+$EndComp
+$Comp
+L Mechanical:MountingHole H4
+U 1 1 5EBFE53F
+P 2700 3800
+F 0 "H4" H 2800 3846 50  0000 L CNN
+F 1 "MountingHole" H 2800 3755 50  0000 L CNN
+F 2 "MountingHole:MountingHole_3.2mm_M3_DIN965" H 2700 3800 50  0001 C CNN
+F 3 "~" H 2700 3800 50  0001 C CNN
+	1    2700 3800
+	1    0    0    -1  
+$EndComp
 $EndSCHEMATC
